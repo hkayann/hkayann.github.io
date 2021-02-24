@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+
+My current research interests are IoT as Sensing Infrastructures, Cybersecurity & Privacy, Context-Awareness.
+
+I love ***Linux*** and ***edge/fog*** (Arduino, Pi, ESPs...) devices.
+
+Contact me via [E-mail].(kayanh@cardiff.ac.uk).
+
 Education
 ======
 * B.S. in Electrics and Electronics, Izmir University of Economics, 2017 (GPA: 3.93 (1st in Department))
@@ -23,7 +30,7 @@ Work experience
 
 * Summer 2015 - Fall 2016: R&D Engineer (internship)
   * DVLX R&D Company - Izmir Institute of Technology
-  * Duties included: Research, 3D - Drone Development, PID Configuration
+  * Duties included: Research, 3D - Drone Development, PID Optimization
   * Supervisor: Armagan Ergun
 
 * Summer 2017 - Fall 2018: Research Assistant
