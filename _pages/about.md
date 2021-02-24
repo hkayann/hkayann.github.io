@@ -13,7 +13,7 @@ My current research interests are IoT as Sensing Infrastructures, Cybersecurity 
 
 I love ***Linux*** and ***edge/fog*** (Arduino, Pi, ESPs...) devices.
 
-Contact me via [E-mail](kayanh@cardiff.ac.uk).
+Contact me via kayanh@cardiff.ac.uk.
 
 Education
 ======
