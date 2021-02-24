@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4878-2326"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/14543452/mr-panda"
+  stackoverflow    : https://stackoverflow.com/users/14543452/mr-panda
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
