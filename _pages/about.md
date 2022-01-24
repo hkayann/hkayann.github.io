@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-My current research interests are IoT as Sensing Infrastructures, Cybersecurity & Privacy, Context-Awareness.
+My current research interests are IoT as Sensing Infrastructures, Cybersecurity & Privacy, Context-Awareness, Predictive Analytics, Neural Networks.
 
-I love ***Linux*** and ***edge/fog*** (Arduino, Pi, ESPs...) devices.
+I love ***Linux*** and ***edge/fog*** (Arduino, Pi, ESPs, Raspberry Pi...) devices.
 
 Contact me via kayanh@cardiff.ac.uk.
 
@@ -46,7 +46,7 @@ Work experience
 Skills
 ======
 * Python (Advanced)
-* Pandas
+* Pandas, NumPy, SciPy, Scikit-learn, TensorFlow
 * C++ 
 * Flask 
 * Flutter (Beginner)
